@@ -88,9 +88,9 @@
 다음의 기술을 주로 활용하며, 문제해결을 위한 적정기술의 도입에 주저하지 않습니다.
 * Front-End: React, Less
 * App: Kotlin
-* Back-End: Python (Django)
+* Back-End: Python (Django, serverless)
 * DBMS: MySQL, Amazon Redshift
-* Infra: AWS, Docker
+* Infra: AWS, Docker, Kong
 * Co-Work: git-flow, Slack, Jira, Confluence
 * 자세한 내용은 [StackShare](https://stackshare.io/peoplefund/peoplefund)를 참고해주세요.
 
