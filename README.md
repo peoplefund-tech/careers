@@ -137,7 +137,7 @@
 ![Sasamo](images/img04_company@2x.jpg)
 
 ## 지원절차
-* 이력서 제출 : hr@peoplefund.co.kr 로 자유형식 이력서 제출 혹은 [원티드](https://bit.ly/2MLx5By)에서 지원 (선택사항 : 포트폴리오, Github ID 등)
+* 이력서 제출 : hr@peoplefund.co.kr 로 자유형식 이력서 제출 혹은 [원티드](https://www.wanted.co.kr/company/157)에서 지원 (선택사항 : 포트폴리오, Github ID 등)
 * 온라인 심사 : 서류심사 (필요시 전화 면접 가능)
 * 오프라인 면접 1차 : 기술 인터뷰 및 코딩 테스트 (필요시 과제 수행)
 * 오프라인 면접 최종 : 대표이사 인터뷰
