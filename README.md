@@ -19,13 +19,13 @@
 * 기기지원 : 최신형 MacBook Pro + 27인치 Dell 모니터
 
 ## 이런분을 원합니다.
-* 문제를 보면 스스로 해결하고 싶어지는 분
-* 본인과 조직의 성장을 크게 기대하는 분
+* 문제의 핵심을 파악하고자 노력하며 근본적인 해결을 추구하는 분
+* 조직의 부족함과 실패를 알리는 것을 두려워하지 않는 분
 * 자율성을 스스로 책임지실 수 있는 분
 * 고객경험의 가치를 중요하게 생각하시는 분
 
 ## 지원방법
-* hr@peoplefund.co.kr 로 자유형식 이력서(PDF) 제출 혹은 [원티드](https://www.wanted.co.kr/company/157?referer_id=398296&platform=github)에서 지원
+* hr@peoplefund.co.kr 로 자유형식 이력서(PDF) 제출
 * 선택사항: 포트폴리오(PDF), GitHub ID 등 제출
 
 ## 업무조직 (제품본부, Product Division)
