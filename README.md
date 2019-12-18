@@ -158,3 +158,8 @@
 * 온라인 심사: 서류심사 (상황에 따라 전화/화상으로 짧은 사전 면접 가능)
 * 오프라인 기술 면접: 기술 인터뷰 및 코딩 테스트 (필요시 과제 수행)
 * 오프라인 최종 면접: 대표이사 인터뷰
+
+## 피플펀드의 제품
+* 피플펀드는 웹 서비스와 안드로이드 앱 두 개의 제품을 출시했습니다.
+* 웹서비스: https://www.peoplefund.co.kr
+* 안드로이드 간편투자 앱: https://play.google.com/store/apps/details?id=kr.co.peoplefund.investment&hl=ko
